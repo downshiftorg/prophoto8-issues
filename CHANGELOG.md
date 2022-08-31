@@ -18,6 +18,7 @@ features, enhancements, and bugfixes (8/10/2022)
 * **Enhancement** Made it easier to locate a newly created layout in the visual builder's Layouts area
 * "Click to copy" button for scroll-to links now correctly adds text to your clipboard
 * Fixed issue preventing transaction ID from being pasted into footer removal links area
+* Fixed occasional mis-alignment of ProPhoto Grid items in Safari browser
 
 ### 8.0.1
 
