@@ -1,5 +1,12 @@
 # Changelog
 
+### 8.1.2
+
+bugfixes (9/12/2022)
+
+* One of the left navigations arrows was missing from ProPhoto slideshows
+* Fixed issue causing block/row/column background images at breakpoints to disappear when saving
+
 ### 8.1.1
 
 bugix (8/31/2022)
