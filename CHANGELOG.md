@@ -1,5 +1,43 @@
 # Changelog
 
+### 8.2.0
+
+enhancements and bugfixes (7/17/2023)
+
+* **Enhancement** Added "alt" tag support to galleries, grids, excerpt images, graphic modules and tiles
+* **Enhancement** New flexible editing window gives more options for customizing your ProPhoto workspace
+* **Enhancement** Collapsable sidebar provides more space to preview your site
+* **Enhancement** Inline tile editing lets you work with your tiles right in your design
+* **Enhancement** Device override settings now show the value being inherited
+* **Enhancement** New link selector makes linking to Pages/Galleries easier
+* **Enhancement** New scroll-to link selector eliminates the need to copy/paste scroll-to links
+* **Enhancement** New border input provides a simpler, visual way to apply borders
+* **Enhancement** Improved the appearance of the menu item selector
+* Instagram grid can now retrieve HEIC format images (apple format)
+* Vertical menu weren't displaying the collapsable submenu icons in the visual builder
+
+### 8.1.5
+
+bugfix (3/15/2023)
+
+* regression - 8.1.4 broke creation of a new graphic module
+
+### 8.1.4
+
+bugfixes (3/13/2023)
+
+* Graphics module with multiple graphics wasn't retaining their order correctly
+* Fixed missing padding in the Settings area
+
+### 8.1.3
+
+enhancements and bugfixes (1/18/2023)
+
+* **WooCommerce Enhancement** You can now assign a layout to product pages withing a product category
+* **WooCommerce Enhancement** Product reviews now display as reviews instead of comments
+* Fixed issue where Grid style "read more" link font style couldn't be set
+* Fixed issue preventing grid item images from displaying in some scenarios
+
 ### 8.1.2
 
 bugfixes (9/12/2022)
