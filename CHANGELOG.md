@@ -1,5 +1,10 @@
 # Changelog
 
+### 8.2.1
+
+* Using the ProPhoto button in the classic editor to insert a grid wasn't working
+* Visual Builder wouldn't save after adding a block or changing a Layout's settings
+
 ### 8.2.0
 
 enhancements and bugfixes (7/17/2023)
