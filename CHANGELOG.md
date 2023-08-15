@@ -1,5 +1,11 @@
 # Changelog
 
+### 8.2.2
+
+bugfix (8/15/2023)
+
+* WordPress 6.3 broke insertion of ProPhoto Grid & Gallery blocks in posts/pages
+
 ### 8.2.1
 
 bugfixes (7/21/2023)
