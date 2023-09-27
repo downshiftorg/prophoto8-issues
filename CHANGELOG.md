@@ -1,10 +1,18 @@
 # Changelog
 
+### 8.2.3
+
+bugfixes (8/28/23)
+
+* Adding step for migrating legacy gallery/grid block data in not already done
+* Dragging a header module into the visual builder was resulting in a white screen
+
 ### 8.2.2
 
-bugfix (8/15/2023)
+bugfix and regression (8/15/2023)
 
 * WordPress 6.3 broke insertion of ProPhoto Grid & Gallery blocks in posts/pages
+* regression - Posts and Pages failed to save in some scenarios after 8.2.0
 
 ### 8.2.1
 
