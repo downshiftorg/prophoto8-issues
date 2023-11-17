@@ -1,5 +1,18 @@
 # Changelog
 
+### 8.2.5
+
+regression (9/17/23)
+
+* regression - 8.2.4 sticky block fix had an error that unstuck blocks on front
+
+### 8.2.4
+
+bugfixes (9/15/23)
+
+* WordPress 6.4 broke insertion of ProPhoto Grid/Gallery blocks in block editor
+* ProPhoto Sticky blocks were becoming unstuck after a ProPhoto update in some scenarios
+
 ### 8.2.3
 
 bugfixes (8/28/23)
