@@ -1,5 +1,35 @@
 # Changelog
 
+### 8.2.8
+
+bugfixes (1/23/25)
+
+* Adding notices regarding change in Instagram integration method
+* Fixes to WooCommerce layout assignments that weren't resolving correctly
+* Galleries on Safari were scaling incorrectly due to lazyloading behavior
+* Use of the Polylang plugin was preventing ProPhoto designs from exporting
+* A corrupted image in the WordPress media library could break the visual builder if used in a design
+* Graphic Modules that didn't have a link could prevent the visual builder from loading
+* Certain permalink structures were preventing an assigned 404 layout from displaying
+
+### 8.2.7
+
+regression (2/26/24)
+
+* regression - Fatal error renferencing code removed in previous release
+
+### 8.2.6
+
+bugfixes (2/26/24)
+
+* Sites with many customizations could throw error when trying to save a post
+* Bold/Italic styles applied in Text Module were incorrectly overridden by Font Style
+* Reverting a font override sometimes caused the override settings to stop working
+* Font overrides were missing from ProPhoto's WP Content Module
+* Relying fully on CloudFlare for caching static files
+* Fixed typo in WordPress admin menu for adding a new gallery
+* Background videos weren't autoplaying when there were multiple on a single page
+
 ### 8.2.5
 
 regression (9/17/23)
