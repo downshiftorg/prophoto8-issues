@@ -2,6 +2,12 @@
 
 ### 8.2.8
 
+bugfixes (1/27/25)
+
+* Showing deprecated Instagram grid settings to aid in migrating to new plugin
+
+### 8.2.8
+
 bugfixes (1/23/25)
 
 * Adding notices regarding change in Instagram integration method
