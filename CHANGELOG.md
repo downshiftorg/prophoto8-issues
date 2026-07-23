@@ -1,5 +1,12 @@
 # Changelog
 
+### 8.2.10
+
+bugfixes (7/22/26)
+
+* Improving compatability with some SEO plugins
+* Visual builder was failing to save in Firefox
+
 ### 8.2.9
 
 bugfixes (1/27/25)
