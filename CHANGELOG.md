@@ -1,5 +1,18 @@
 # Changelog
 
+### 8.3.1
+
+bugfix (8/4/26)
+
+* ProPhoto gallery images were not showing on gallery edit pages
+
+### 8.3.0
+
+complete refactor (8/3/26)
+
+* Most of the ProPhoto codebase was refactored to utilize modern tools and libraries, improving overall performance, and building a strong foundation for our next push of new features.
+* Text modules now use a more modern text editor, which looks slightly different, but functions the same.
+
 ### 8.2.10
 
 bugfixes (7/22/26)
