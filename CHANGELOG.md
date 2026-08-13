@@ -1,5 +1,19 @@
 # Changelog
 
+### 8.3.3
+
+bugfix (8/10/26)
+
+* Columns were not stacking correctly in Visual Builder when using the View Mode dropdown.
+
+### 8.3.2
+
+bugfix (8/6/26)
+
+* Changing the order of a sticky block in the visual builder caused a white screen error.
+* Design initialization failure after update caused by old, no longer valid, HTML in text module.
+* Missing throbber icon during design activation process.
+
 ### 8.3.1
 
 bugfix (8/4/26)
