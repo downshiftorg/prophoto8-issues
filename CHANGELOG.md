@@ -1,5 +1,23 @@
 # Changelog
 
+### 8.3.5
+
+bugfixes (8/24/26)
+
+* Modules should remain highlighted in Visual Builder when selected for editing
+* Button to revert Grid Style font overrides wasn't working
+* Custom CSS device overrides weren't displaying in the Visual Builder
+
+### 8.3.4
+
+bugfixes (8/21/26)
+
+* Empty paragraphs weren’t taking any space on front end
+* Several areas of WP Content module form giving white screen error
+* Tile borders not working correctly in Visual Builder
+* Tile inheritance not working correctly in hover and active states
+* Several icons were missing in the WP Content Module forms
+
 ### 8.3.3
 
 bugfix (8/10/26)
