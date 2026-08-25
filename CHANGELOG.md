@@ -7,6 +7,7 @@ bugfixes (8/24/26)
 * Modules should remain highlighted in Visual Builder when selected for editing
 * Button to revert Grid Style font overrides wasn't working
 * Custom CSS device overrides weren't displaying in the Visual Builder
+* Tile shape layers were getting borders applied incorrectly
 
 ### 8.3.4
 
