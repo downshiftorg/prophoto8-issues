@@ -1,5 +1,11 @@
 # Changelog
 
+### 8.3.6
+
+bugfixes (8/31/26)
+
+* Several tabs of form module were giving white screen error
+
 ### 8.3.5
 
 bugfixes (8/24/26)
